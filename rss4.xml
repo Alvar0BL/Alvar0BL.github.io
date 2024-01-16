@@ -1,5 +1,6 @@
 <rss version="2.0">
     <channel>
+        <description>RSS Tarea</description>  
         <language>es-es</language>
         <category>móviles</category>
         <link>https://www.lmgsi.com.es</link>
