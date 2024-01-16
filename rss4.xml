@@ -1,0 +1,56 @@
+<rss version="2.0">
+    <channel>
+        <language>es-es</language>
+        <category>móviles</category>
+        <link>https://www.lmgsi.com.es</link>
+        <title>Noticias sobre dispositivos móviles</title>
+        <ttl>60</ttl>
+        <copyright>Alvaro Bazan – Todos los derechos guardados</copyright>
+
+        <item>
+            <title>TCL tiene un plan para que sus pantallas no dañen nuestra vista: así es la tecnología NXTPAPER 3.0</title>
+            <link>https://www.xataka.com/moviles/tcl-tiene-plan-sus-pantallas-no-danen-nuestra-vista-asi-tecnologia-nxtpaper-3-0</link>
+            <description>Dispositivos de la gama TCL 50 y algunas de sus tablets insignia la incorporarán</description>
+            <pubDate>Sun, 24 Dec 2023 18:30:00 +0000</pubDate>
+            <category>móviles</category>
+            <guid>http://some.server.com/weblogItem3207</guid>
+        </item>
+
+        <item>
+            <title>Tras quedarse sin Google, Huawei parecía condenada al hundimiento. Así ha conseguido dar la vuelta a su futuro</title>
+            <link>https://www.xataka.com/empresas-y-economia/huawei-esta-logrando-que-parecia-imposible-superar-crisis-guerra-comercial</link>
+            <description>Cierra 2023 con un crecimiento del 10% respecto a los ingresos de 2022</description> 
+            <pubDate>Sun, 24 Dec 2023 18:30:00 +0000</pubDate>
+            <author>alvaro@hotmail.com (Alvaro Bazan)</author>
+            <guid>http://some.server.com/weblogItem5507</guid>
+        </item>
+
+        <item>
+            <title>Entendiendo quién es quién con los nuevos Redmi Note 13: Xiaomi tiene todo un arsenal de móviles para hacerse con la gama media</title>
+            <link>https://www.xataka.com/moviles/entendiendo-quien-quien-nuevos-redmi-note-13-xiaomi-tiene-todo-arsenal-moviles-para-hacerse-gama-media</link>
+            <description>Ni uno, ni dos, ni tres, sino cinco móviles son los que componen la nueva familia Redmi Note 13.</description>
+            <comments>https://www.xataka.com/contacto/directo</comments>
+            <category>moviles</category>
+            <guid>http://some.server.com/weblogItem4407</guid>
+        </item>
+
+        <item>
+            <title>OnePlus 12, primeras impresiones: la intención de resucitar el término 'flagship killer'... adaptado a la inflación</title>
+            <link>https://www.xataka.com/moviles/oneplus-12-opiniones-toma-contacto-fotos</link>
+            <description>2023 fue un año vital para OnePlus. Tras un periodo un poco confuso en el que la línea entre OPPO y OnePlus era difusa, lanzaron dos de los mejores móviles de sus categorías. El OnePlus 11 no sólo era estable a nivel de rendimiento, sino que tenía unas buenas cámaras, un diseño robusto y un equilibrio muy interesante. El OnePlus Open es el candidato al mejor plegable del momento por sus bondades en ese campo, pero también por sus cámaras</description>
+            <category>moviles</category>
+            <author>alvaro@hotmail.com (Alvaro Bazan)</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <guid>http://some.server.com/weblogItem6607</guid>
+        </item>
+        
+        <item>
+            <title>POCO X6 y POCO X6 Pro: si la gama media de 2024 es así de contundente, la gama alta está en serios apuros</title>
+            <link>https://www.xataka.com/moviles/poco-x6-poco-x6-pro-caracteristicas-precio-ficha-tecnica</link>
+            <description>Llegan con procesadores de Qualcomm y MediaTek</description>
+            <author>alvaro@hotmail.com (Alvaro Bazan)</author>
+            <category>moviles</category>
+            <guid>http://some.server.com/weblogItem7707</guid>
+        </item>
+    </channel>
+</rss>
