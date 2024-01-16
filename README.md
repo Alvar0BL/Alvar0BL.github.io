@@ -1,1 +1,1 @@
-{rss}{rss4}
+{rss}{rss4.xml}
